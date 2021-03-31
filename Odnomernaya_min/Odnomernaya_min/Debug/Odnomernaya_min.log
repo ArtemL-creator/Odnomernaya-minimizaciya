@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Projects\Odnomernaya_min\Odnomernaya_min\Source.cpp(157): warning C4715: intSwann: значение возвращается не при всех путях выполнения
+  Odnomernaya_min.vcxproj -> D:\Projects\Odnomernaya_min\Debug\Odnomernaya_min.exe
